@@ -1,5 +1,8 @@
-[Geneciv](https://github.com/hachchch/-GeneCiv-)
+# welcome to my github page!
 
-The Unciv ruleset mod that change whole of game.
 
-In this mod, you can control Cells and Fishes and Dinosaurs
+Hi, I'm hachchch
+
+who making unciv mods.
+
+I introduce my mods in this page
